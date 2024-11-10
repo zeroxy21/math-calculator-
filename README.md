@@ -1,0 +1,3 @@
+the main.cpp file is just a simple calculator that displays the result in the terminal 
+i will try to improve it little by little , the objective is to add square roots , log ,exp
+determinants and matrix operations ect....
